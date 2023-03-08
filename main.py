@@ -26,4 +26,4 @@ async def on_message(message):
     if message.content == "Goodnight, hiccupBot":
         await message.channel.send("Goodnight, " + str(message.author))
 
-client.run("MTA4MjgzMjI3NTg1NjY4NzE4NA.Gv07DU.lFcvhsTZWFhneYHX51D1cx_zEfxXSOHBZc5SiM") # BOT TOKEN HERE
+client.run("TOKEN") # BOT TOKEN HERE
