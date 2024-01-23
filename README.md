@@ -17,14 +17,13 @@ hiccupBot responds to the following messages:
 
 | message | response | notes |
 | --- | --- | --- |
-| Hello hiccupBot! | Hello, [user] | must use exact message to get response |
-| Goodnight, hiccupBot | Goodnight, [user] | must use exact message to get response |
+| Hello hiccupBot! | Hello, [user] | any punctuation and capitalization |
+| Goodnight hiccupBot. | Goodnight, [user] | any punctuation and capitalization |
 
 
 ## future updates
 hiccupBot is a passion project and is not regularly updated. planned future updates are listed below.
 
-- [UPDATE] more information under !help
 - [ADDITION] basic calculator (addition, subtraction, multiplication, division)
 - [REMOVAL] hiccup counting
 - [ADDITION] memory
